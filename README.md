@@ -1,2 +1,2 @@
 # dotfiles
-Absolutely exemplay dotfiles
+Absolutely exemplary dotfiles

@@ -1,0 +1,12 @@
+{
+    "autosu": true,
+    "colorscheme": "gruvbox",
+    "hltaberrors": true,
+    "hltrailingws": true,
+    "mkparents": true,
+    "savecursor": true,
+    "saveundo": true,
+    "scrollbar": true,
+    "softwrap": true,
+    "wordwrap": true
+}

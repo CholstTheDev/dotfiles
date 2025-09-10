@@ -25,6 +25,8 @@ function y() {
 	rm -f -- "$tmp"
 }
 
+alias c="clear"
+
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
 
